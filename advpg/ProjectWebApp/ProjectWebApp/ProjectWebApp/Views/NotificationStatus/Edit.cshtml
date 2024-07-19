@@ -1,0 +1,35 @@
+﻿@model ProjectWebApp.Models.NotificationStatus
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1 class="text-center">Edit</h1>
+<div style="height: 70vh; background: url('/images/back.jpg') no-repeat center center; background-size: cover;">
+
+<h4 class="text-center">NotificationStatus</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NotificationStatusId" />
+            <div class="form-group">
+                <label asp-for="NotificationStatus1" class="control-label"></label>
+                <input asp-for="NotificationStatus1" class="form-control" />
+                <span asp-validation-for="NotificationStatus1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

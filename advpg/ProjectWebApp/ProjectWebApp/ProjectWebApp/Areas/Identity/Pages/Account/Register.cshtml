@@ -1,0 +1,69 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="d-flex justify-content-center align-items-center" style="height: 60vh; background: url('/images/bg.png') no-repeat center center; background-size: cover;">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                    <h2 class="text-center">Create a new account</h2>
+                    <hr />
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Email" class="form-control custom-font-size" autocomplete="username" aria-required="true" />
+                        <label asp-for="Input.Email" class="custom-font-size"></label>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Password" class="form-control custom-font-size" autocomplete="new-password" aria-required="true" />
+                        <label asp-for="Input.Password" class="custom-font-size"></label>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.ConfirmPassword" class="form-control custom-font-size" autocomplete="new-password" aria-required="true" />
+                        <label asp-for="Input.ConfirmPassword" class="custom-font-size"></label>
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <select asp-for="Input.Role" class="form-control custom-font-size" aria-required="true" disabled>
+                            <option value="User" selected>User</option>
+                            <option value="Manager">Manager</option>
+                            <option value="Technician">Technician</option>
+                        </select>
+                        <label asp-for="Input.Role">Role</label>
+                        <span asp-validation-for="Input.Role" class="text-danger custom-font-size"></span>
+                    </div>
+
+                    
+
+                    <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<style>
+    .card {
+        margin-top: 50px;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-font-size {
+        font-size: 16px; /* Ajustez la taille de la police selon vos besoins */
+    }
+</style>

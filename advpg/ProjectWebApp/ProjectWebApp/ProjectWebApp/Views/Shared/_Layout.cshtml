@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ProjectWebApp</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProjectWebApp.styles.css" asp-append-version="true" />
+    <style>
+        .navbar-custom {
+            background-color: #007bff; /* Couleur bleue Bootstrap */
+        }
+
+            .navbar-custom .nav-link,
+            .navbar-custom .navbar-brand {
+                color: #ffffff;
+            }
+
+                .navbar-custom .nav-link:hover {
+                    color: #ffd700; /* Couleur or pour le survol */
+                }
+
+        .nav-item .btn {
+            margin-right: 10px; /* Espacement entre les boutons */
+        }
+
+        .nav-item .btn-custom {
+            background-color: #ffffff;
+            color: #007bff;
+            border: 1px solid #007bff;
+        }
+
+            .nav-item .btn-custom:hover {
+                background-color: #ffd700;
+                color: #ffffff;
+                border: 1px solid #ffd700;
+            }
+
+        .btn-logout {
+            background-color: firebrick;
+            color: #ffffff;
+            border: 1px solid firebrick;
+        }
+
+            .btn-logout:hover {
+                background-color: darkred;
+                border: 1px solid darkred;
+            }
+
+        .btn-profile {
+            background-color: #93c572; /* Couleur pistache */
+            color: #ffffff;
+            border: 1px solid #93c572;
+        }
+
+            .btn-profile:hover {
+                background-color: #6fa350;
+                border: 1px solid #6fa350;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-custom shadow-sm">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ProjectWebApp</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <!-- Common Links -->
+                        <li class="nav-item">
+                            <a class="btn btn-custom" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="btn btn-custom" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+
+                        <!-- Admin Dropdown -->
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="btn btn-custom dropdown-toggle" href="#" id="adminDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Admin
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="adminDropdown">
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="AppUsers" asp-action="Index">Manage Users</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="UserRoles" asp-action="Index">Manage Roles</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="AppCategories" asp-action="Index">Manage Category</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="AppServices" asp-action="Index">Manage Services</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="ServiceRequests" asp-action="Index">Manage ServiceRequests</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="ServiceStatus" asp-action="Index">Manage ServicesStatus</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Notifications" asp-action="Index">Manage Notifications</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="NotificationStatus" asp-action="Index">Manage NotificationStatus</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Payments" asp-action="Index">Manage Payments</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="PaymentStatus" asp-action="Index">Manage PaymentStatus</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Comments" asp-action="Index">Manage Comments</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Documents" asp-action="Index">Manage Documents</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="AppLogs" asp-action="Index">Manage Logs</a></li>
+                                </ul>
+                            </li>
+                        }
+
+                        <!-- Manager Dropdown -->
+                        @if (User.IsInRole("Manager"))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="btn btn-custom dropdown-toggle" href="#" id="managerDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Manager
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="managerDropdown">
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="AppServices" asp-action="Index">Manage Services</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Documents" asp-action="Index">Manage Documents</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="ServiceRequests" asp-action="Index">Manage ServiceRequests</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="NotificationStatus" asp-action="Index">Manage NotificationStatus</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Payments" asp-action="Index">Manage Payments</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Comments" asp-action="Index">Manage Comments</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Documents" asp-action="Index">Manage Documents</a></li>
+                                </ul>
+                            </li>
+                        }
+
+                        <!-- Technician Dropdown -->
+                        @if (User.IsInRole("Technician"))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="btn btn-custom dropdown-toggle" href="#" id="technicianDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Technician
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="technicianDropdown">
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="ServiceRequests" asp-action="Index">Manage Service Requests</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Documents" asp-action="Index">Manage Documents</a></li>
+                                </ul>
+                            </li>
+                        }
+
+                        <!-- User Dropdown -->
+                        @if (User.IsInRole("User"))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="btn btn-custom dropdown-toggle" href="#" id="userDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    User
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="userDropdown">
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="AppCategories" asp-action="Index">Services</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="ServiceRequests" asp-action="Index">Manage Service Requests</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Documents" asp-action="Index">Manage Documents</a></li>
+                                </ul>
+                            </li>
+                        }
+                    </ul>
+                    <ul class="navbar-nav ms-auto">
+                        <!-- Add logout or profile button here if needed -->
+                        <li class="nav-item">
+                            <partial name="_LoginPartial" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container mt-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted py-3">
+        <div class="container">
+            <div class="d-flex justify-content-between">
+                <div>
+                    &copy; 2024 - ProjectWebApp
+                </div>
+                <div>
+                    <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

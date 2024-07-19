@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\dashboardmanagercs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\dashboardmanagercs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\housecare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\housecare.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|d:\\education\\education2023_2024\\encadrement2023-2024\\tij\\travail_ahmed_c#\\cours\u002Btp\\unit 3 lab 3c solution\\northwindapp\\northwindapp\\adminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\adminlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3C8C6-73E1-48EA-8839-80C5864380EB}|\u00C9l\u00E9ments de solution{C6A3C8C6-73E1-48EA-8839-80C5864380EB}|D:\\FinalProject\\HouseCareWinForms\\LibraryMSWF\\AdminForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\northwindapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFFF12-2BB9-48F2-A67F-14E20B0B060F}|NorthwindApp\\HouseCare.csproj|solutionrelative:northwindapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Conception]",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboard.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Dashboard.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboard.cs [Conception]",
+              "RelativeToolTip": "NorthwindApp\\Dashboard.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:10:11.235Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLogin.cs [Conception]",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\AdminLogin.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\AdminLogin.cs [Conception]",
+              "RelativeToolTip": "NorthwindApp\\AdminLogin.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:01:35.573Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboardmanagercs.cs [Conception]",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboardmanagercs.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Dashboardmanagercs.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboardmanagercs.cs [Conception]",
+              "RelativeToolTip": "NorthwindApp\\Dashboardmanagercs.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:45:45.556Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Landing.cs [Conception]",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Landing.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Landing.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Landing.cs [Conception]",
+              "RelativeToolTip": "NorthwindApp\\Landing.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:07:44.882Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerLogin.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\ManagerLogin.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\ManagerLogin.cs",
+              "RelativeToolTip": "NorthwindApp\\ManagerLogin.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:35:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerLogin.cs [Conception]",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\ManagerLogin.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\ManagerLogin.cs [Conception]",
+              "RelativeToolTip": "NorthwindApp\\ManagerLogin.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:34:16.139Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboardmanagercs.Designer.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboardmanagercs.Designer.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Dashboardmanagercs.Designer.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboardmanagercs.Designer.cs",
+              "RelativeToolTip": "NorthwindApp\\Dashboardmanagercs.Designer.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAADgv5kAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:54:38.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboardmanagercs.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboardmanagercs.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Dashboardmanagercs.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboardmanagercs.cs",
+              "RelativeToolTip": "NorthwindApp\\Dashboardmanagercs.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:47:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboard.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Dashboard.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Dashboard.cs",
+              "RelativeToolTip": "NorthwindApp\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:11:36.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Services.cs [Conception]",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Services.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Services.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Services.cs [Conception]",
+              "RelativeToolTip": "NorthwindApp\\Services.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:24:43.586Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HouseCare",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\HouseCare.csproj",
+              "RelativeDocumentMoniker": "NorthwindApp\\HouseCare.csproj",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\HouseCare.csproj",
+              "RelativeToolTip": "NorthwindApp\\HouseCare.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T02:29:33.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.Dialogue.Edit.cs [Conception]",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Details.Dialogue.Edit.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Details.Dialogue.Edit.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Details.Dialogue.Edit.cs [Conception]",
+              "RelativeToolTip": "NorthwindApp\\Details.Dialogue.Edit.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:36:27.022Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminLogin.Designer.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\AdminLogin.Designer.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\AdminLogin.Designer.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\AdminLogin.Designer.cs",
+              "RelativeToolTip": "NorthwindApp\\AdminLogin.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADgvzwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:34:27.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Landing.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Landing.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Landing.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Landing.cs",
+              "RelativeToolTip": "NorthwindApp\\Landing.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAADgv0QAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:08:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\AdminLogin.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\AdminLogin.cs",
+              "RelativeToolTip": "NorthwindApp\\AdminLogin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvykAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:01:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "D:\\FinalProject\\HouseCareWinForms\\LibraryMSWF\\AdminForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\FinalProject\\HouseCareWinForms\\LibraryMSWF\\AdminForm.cs",
+              "ToolTip": "D:\\FinalProject\\HouseCareWinForms\\LibraryMSWF\\AdminForm.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\FinalProject\\HouseCareWinForms\\LibraryMSWF\\AdminForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T01:51:45.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Services.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Services.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Services.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Services.cs",
+              "RelativeToolTip": "NorthwindApp\\Services.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAnwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:25:30.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Global.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Global.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Global.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Global.cs",
+              "RelativeToolTip": "NorthwindApp\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:12:21.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.Dialogue.Edit.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Details.Dialogue.Edit.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Details.Dialogue.Edit.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Details.Dialogue.Edit.cs",
+              "RelativeToolTip": "NorthwindApp\\Details.Dialogue.Edit.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwFkAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:40:25.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Service.cs",
+              "RelativeDocumentMoniker": "NorthwindApp\\Service.cs",
+              "ToolTip": "D:\\Education\\Education2023_2024\\Encadrement2023-2024\\TIJ\\travail_ahmed_c#\\cours\u002Btp\\Unit 3 Lab 3c Solution\\NorthwindApp\\NorthwindApp\\Service.cs",
+              "RelativeToolTip": "NorthwindApp\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T00:27:09.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

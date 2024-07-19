@@ -1,0 +1,1609 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectIdentityDB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|c:\\users\\ameen\\onedrive\\desktop\\advpg\\projectwebapp\\projectwebapp\\projectwebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\applogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\applogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\applogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\applogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appservices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appservices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\controllers\\applogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\controllers\\applogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\documents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notifications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notifications\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notificationstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notificationstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appservices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appservices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicerequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicerequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicerequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicerequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicerequests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicerequests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicerequests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicerequests\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicerequests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicerequests\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectIdentityDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appservices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appservices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appservices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appservices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notifications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notifications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\payments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\payments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\models\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\models\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\controllers\\appservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\controllers\\appservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appservices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appservices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicestatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicestatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\paymentstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\paymentstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\payments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\payments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\payments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\payments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\documents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\documents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\documents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\documents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\documents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\documents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\comments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\comments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\comments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\comments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\comments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\comments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\comments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\applogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\applogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\applogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\applogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\applogs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\applogs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appcategories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appcategories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appcategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appcategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\appcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\appcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\models\\appcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\models\\appcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\models\\appcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\models\\appcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicestatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicestatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\paymentstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\paymentstatus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\userroles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\userroles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\userroles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\userroles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\userroles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\userroles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\userroles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\userroles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicestatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicestatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicestatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicestatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\servicestatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\servicestatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\paymentstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\paymentstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\paymentstatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\paymentstatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\paymentstatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\paymentstatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notificationstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notificationstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notificationstatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notificationstatus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notificationstatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notificationstatus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notificationstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notificationstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notifications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notifications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notifications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notifications\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\projectwebapp\\views\\notifications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2D12E6F-46A7-42C9-924F-5656F9F9ED02}|ProjectWebApp\\ProjectWebApp.csproj|solutionrelative:projectwebapp\\views\\notifications\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectIdentityDB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectIdentityDB.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectIdentityDB.sql ",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectIdentityDB.sql",
+              "RelativeDocumentMoniker": "..\\..\\ProjectIdentityDB.sql",
+              "ToolTip": "ProjectIdentityDB.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-27T21:48:10.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppLogs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppLogs\\Create.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:08:29.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppLogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppLogs\\Index.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAkwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:07:13.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:14.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppUsers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppUsers\\Details.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:05:47.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:53:52.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\AppLogsController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Controllers\\AppLogsController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\AppLogsController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Controllers\\AppLogsController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAgwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:16:03.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:06:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppUsers\\Index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwEMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:04:53.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\UserRole.cs",
+              "RelativeToolTip": "ProjectWebApp\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:22:51.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppLog.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\AppLog.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Models\\AppLog.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\AppLog.cs",
+              "RelativeToolTip": "ProjectWebApp\\Models\\AppLog.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:23:15.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppUsers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppUsers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:05:44.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Controllers\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Controllers\\UserRolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:13:45.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Controllers\\AppUsersController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Controllers\\AppUsersController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:16:31.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:16:12.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppServices\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppServices\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:09:16.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Program.cs",
+              "RelativeToolTip": "ProjectWebApp\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:07:17.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\appsettings.json",
+              "RelativeToolTip": "ProjectWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T17:13:29.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:13:25.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:47:42.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:07:21.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Documents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Documents\\Index.cshtml",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:09:49.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:07:33.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:07:24.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppServices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppServices\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:42:56.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceRequests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceRequests\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:56:34.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Payments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Payments\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:16:44.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:49.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Notifications\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Notifications\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:10:18.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\NotificationStatus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\NotificationStatus\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:14:52.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:17:21.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:17:20.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:17:19.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:52.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:46.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:45.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:40.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:39.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T20:16:38.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceRequests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceRequests\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:56:35.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceRequests\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceRequests\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:57:30.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceRequests\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceRequests\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:57:01.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceRequests\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceRequests\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceRequests\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T14:57:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Notifications\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Notifications\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:11:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.AspNetUsers [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ProjectIdentityDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-24T16:44:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppServices\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppServices\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:09:20.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppServices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppServices\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:09:21.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:59.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Payments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Payments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:16:48.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Models\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\ServiceRequestsController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Models\\ServiceRequestsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvx0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:53:26.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "ProjectWebApp\\Models\\ServiceRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:22:18.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AppServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\AppServicesController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Controllers\\AppServicesController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Controllers\\AppServicesController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Controllers\\AppServicesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:40:17.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppServices\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppServices\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppServices\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:09:17.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppCategories\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:06:58.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceStatus\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceStatus\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:18:06.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\PaymentStatus\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\PaymentStatus\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Payments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Payments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:00.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Payments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Payments\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Payments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:16:54.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Documents\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Documents\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:10:02.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Documents\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Documents\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:10:07.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Documents\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Documents\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:10:10.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Documents\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Documents\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Documents\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:11:31.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Comments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Comments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:05:08.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Comments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Comments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:05:17.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Comments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Comments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:05:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Comments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Comments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:05:28.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Comments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Comments\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Comments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:05:33.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppUsers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppUsers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:00:24.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppUsers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppUsers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:59:35.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppLogs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppLogs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:08:59.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppLogs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppLogs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:09:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppLogs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppLogs\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppLogs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:08:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppCategories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppCategories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:06:49.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppCategories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppCategories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:06:35.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppCategories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppCategories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:06:06.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\AppCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\AppCategories\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\AppCategories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:06:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AppCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\AppCategoriesController.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Models\\AppCategoriesController.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\AppCategoriesController.cs",
+              "RelativeToolTip": "ProjectWebApp\\Models\\AppCategoriesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:46:09.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AppCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\AppCategory.cs",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Models\\AppCategory.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Models\\AppCategory.cs",
+              "RelativeToolTip": "ProjectWebApp\\Models\\AppCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:46:19.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\PaymentStatus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\PaymentStatus\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceStatus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceStatus\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwDUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:18:26.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\UserRoles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Index.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\UserRoles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:03:34.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\UserRoles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\UserRoles\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:01:00.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\UserRoles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\UserRoles\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:02:15.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\UserRoles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\UserRoles\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:01:06.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\UserRoles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\UserRoles\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\UserRoles\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:03:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceStatus\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceStatus\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:18:20.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceStatus\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceStatus\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:18:15.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\ServiceStatus\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\ServiceStatus\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\ServiceStatus\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:18:11.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\PaymentStatus\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\PaymentStatus\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:26.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\PaymentStatus\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\PaymentStatus\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:21.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\PaymentStatus\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\PaymentStatus\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\PaymentStatus\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:17:14.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\NotificationStatus\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\NotificationStatus\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:14:43.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\NotificationStatus\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Create.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\NotificationStatus\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:13:32.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\NotificationStatus\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\NotificationStatus\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:14:19.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\NotificationStatus\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\NotificationStatus\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\NotificationStatus\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:14:31.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Notifications\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Delete.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Notifications\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:11:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Notifications\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Details.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Notifications\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:11:07.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectWebApp\\Views\\Notifications\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\ProjectWebApp\\ProjectWebApp\\ProjectWebApp\\Views\\Notifications\\Edit.cshtml",
+              "RelativeToolTip": "ProjectWebApp\\Views\\Notifications\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:10:30.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

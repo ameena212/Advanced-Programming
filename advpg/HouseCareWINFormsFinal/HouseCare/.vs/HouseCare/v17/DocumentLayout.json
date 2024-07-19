@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|c:\\users\\ameen\\onedrive\\desktop\\advpg\\housecarewinformsfinal\\housecare\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:details.dialogue.edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\details.dialogue.edit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:details.dialogue.edit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\models\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:models\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:models\\applog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\models\\appcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:models\\appcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:dashboardmanagercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7EF82A4-CEC3-448A-8783-0B0ADBDA0A4E}|HouseCare.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.Dialogue.Edit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Details.Dialogue.Edit.cs",
+              "RelativeDocumentMoniker": "Details.Dialogue.Edit.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Details.Dialogue.Edit.cs [Design]",
+              "RelativeToolTip": "Details.Dialogue.Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:26:51.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Services.cs",
+              "RelativeDocumentMoniker": "Services.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Services.cs [Design]",
+              "RelativeToolTip": "Services.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:17:10.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Services.cs",
+              "RelativeDocumentMoniker": "Services.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Services.cs",
+              "RelativeToolTip": "Services.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAGsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:24:10.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.Dialogue.Edit.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Details.Dialogue.Edit.cs",
+              "RelativeDocumentMoniker": "Details.Dialogue.Edit.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Details.Dialogue.Edit.cs",
+              "RelativeToolTip": "Details.Dialogue.Edit.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:26:56.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAEENAAAAAAAAAAAUwE4NAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-28T13:13:22.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.Dialogue.Edit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Details.Dialogue.Edit.Designer.cs",
+              "RelativeDocumentMoniker": "Details.Dialogue.Edit.Designer.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Details.Dialogue.Edit.Designer.cs",
+              "RelativeToolTip": "Details.Dialogue.Edit.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:06:48.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCareWINFormsFinal\\HouseCare\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "..\\HouseCareWINFormsFinal\\HouseCare\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:47:05.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboardmanagercs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Dashboardmanagercs.cs",
+              "RelativeDocumentMoniker": "Dashboardmanagercs.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCareWINFormsFinal\\HouseCare\\Dashboardmanagercs.cs [Design]",
+              "RelativeToolTip": "..\\HouseCareWINFormsFinal\\HouseCare\\Dashboardmanagercs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:16:58.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Landing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Landing.cs",
+              "RelativeDocumentMoniker": "Landing.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCareWINFormsFinal\\HouseCare\\Landing.cs [Design]",
+              "RelativeToolTip": "..\\HouseCareWINFormsFinal\\HouseCare\\Landing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:34:21.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "ManagerLogin.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCareWINFormsFinal\\HouseCare\\ManagerLogin.cs [Design]",
+              "RelativeToolTip": "..\\HouseCareWINFormsFinal\\HouseCare\\ManagerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:17:03.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppService.cs",
+              "RelativeDocumentMoniker": "Models\\AppService.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppService.cs",
+              "RelativeToolTip": "Models\\AppService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:54:29.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\UserRole.cs",
+              "RelativeToolTip": "Models\\UserRole.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIA6wA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:05:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:47:02.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCareWINFormsFinal\\HouseCare\\Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\HouseCareWINFormsFinal\\HouseCare\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:16:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:41:29.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppLog.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppLog.cs",
+              "RelativeDocumentMoniker": "Models\\AppLog.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppLog.cs",
+              "RelativeToolTip": "Models\\AppLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:46:56.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppCategory.cs",
+              "RelativeDocumentMoniker": "Models\\AppCategory.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Models\\AppCategory.cs",
+              "RelativeToolTip": "Models\\AppCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:46:57.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dashboardmanagercs.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Dashboardmanagercs.cs",
+              "RelativeDocumentMoniker": "Dashboardmanagercs.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Dashboardmanagercs.cs",
+              "RelativeToolTip": "Dashboardmanagercs.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA/wBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:28:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvykAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T22:32:30.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "AdminLogin.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\AdminLogin.cs",
+              "RelativeToolTip": "AdminLogin.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:22:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Landing.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Landing.cs",
+              "RelativeDocumentMoniker": "Landing.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\Landing.cs",
+              "RelativeToolTip": "Landing.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA1wFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:15:35.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "ManagerLogin.cs",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\ManagerLogin.cs",
+              "RelativeToolTip": "ManagerLogin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:32:28.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "C:\\Users\\ameen\\OneDrive\\Desktop\\advpg\\HouseCareWINFormsFinal\\HouseCare\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T02:42:31.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

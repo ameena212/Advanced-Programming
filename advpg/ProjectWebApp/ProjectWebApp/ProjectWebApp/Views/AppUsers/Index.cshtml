@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ProjectWebApp.Models.AppUser>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center">Index</h1>
+<div class="d-flex justify-content-center align-items-center" style="height: 140vh; background: url('/images/back.jpg') no-repeat center center; background-size: cover;">
+    <div class="container">
+        <form asp-action="Index" method="get" class="form-inline mb-3">
+            <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" class="form-control mr-sm-2" placeholder="Search Users">
+            <button type="submit" class="btn btn-outline-success">Search</button>
+        </form>
+<p>
+            @if (User.IsInRole("Admin"))
+            {
+                <a asp-action="Create" class="btn btn-primary">Create New</a>
+            }
+        </p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Fname)</th>
+            <th>@Html.DisplayNameFor(model => model.Lname)</th>
+            <th>@Html.DisplayNameFor(model => model.Dob)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+            <th>@Html.DisplayNameFor(model => model.Phone)</th>
+            <th>@Html.DisplayNameFor(model => model.UserRole.UserType)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Fname)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Lname)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Dob)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                    <td>@Html.DisplayFor(modelItem => item.UserRole.UserType)</td>
+                    <td>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.UserID">Edit</a>
+                                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.UserID">Details</a>
+                                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.UserID">Delete</a>
+                            }
+                            else if (User.IsInRole("Manager") || User.IsInRole("Technician") || User.IsInRole("User"))
+                            {
+                              
+                            }
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7">No users found.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+</div>

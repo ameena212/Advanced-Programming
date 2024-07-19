@@ -1,0 +1,57 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+.custom-font-size {
+    font-size: 20px; /* Remplacez 20px par la taille désirée */
+}
+
+h1 {
+    font-weight: bold;
+    border: 2px solid #000; /* Couleur de la bordure noire */
+    padding: 10px; /* Espacement à l'intérieur du cadre */
+    display: inline-block; /* Pour que le cadre s'ajuste au contenu du titre */
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+body {
+    background: url('./wwwroot/SPiMx.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+body {
+    background-color: #f0f0f0; /* Remplacez par la couleur désirée */
+}
+/* site.css */
+body {
+    background-color: #f8f9fa;
+}
+
+form {
+    margin-top: 20px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.btn-profile, .btn-logout {
+    margin-left: 10px;
+}
+.custom-font-size-small {
+    font-size: 12px; /* Ajustez la taille de la police selon vos besoins */
+}
